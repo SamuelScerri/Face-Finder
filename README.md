@@ -23,4 +23,4 @@ Searching for 'John Carmack' would output:
 
 Searching for 'Sam Ryder' would output:
 
-![image](https://user-images.githubusercontent.com/92179479/169137855-88650e64-e8f2-4089-920a-9d1643f2df62.png)
+![image](https://user-images.githubusercontent.com/92179479/169138591-b093a4ec-e9b7-4f27-b52c-eaa92b32351c.png)

@@ -18,7 +18,9 @@ Change the Program Arguments to something that you want to search about
 # Examples
 
 Searching for 'John Carmack' would output:
+
 ![image](https://user-images.githubusercontent.com/92179479/169137394-5d610f7e-176c-41fc-ae9d-4d3aaf39936d.png)
 
 Searching for 'Sam Ryder' would output:
+
 ![image](https://user-images.githubusercontent.com/92179479/169137855-88650e64-e8f2-4089-920a-9d1643f2df62.png)

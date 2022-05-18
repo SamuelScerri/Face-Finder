@@ -8,7 +8,9 @@ This Project was tested using Eclipse, a Quick Start guide of running a Google C
 
 # How To Search For Different Images In Eclipse
 ![image](https://user-images.githubusercontent.com/92179479/169135543-df306248-0497-4530-8191-354d271e9595.png)
+
 Click on Run Configurations and go to the Arguments Tab
 
 ![image](https://user-images.githubusercontent.com/92179479/169135843-338d6bef-27ac-4e09-a62a-417e5d2332db.png)
+
 Change the Program Arguments to something that you want to search about
